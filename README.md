@@ -1,4 +1,4 @@
-![Preview]([https://i.ibb.co/yF8gky5K/photo-2025-02-13-18-37-26.jpg])
+![Preview](https://i.ibb.co/yF8gky5K/photo-2025-02-13-18-37-26.jpg)
 
 
 

@@ -27,7 +27,6 @@ export default function RootLayout() {
     return null;
   }
 
-
   return (
 
       <Stack screenOptions={{headerStyle:{backgroundColor:theme.headerBacground}}}>

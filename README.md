@@ -1,6 +1,15 @@
+# Coffee Shop App ☕  
+
+This is a simple coffee shop app that includes a menu and information about the establishment.  
+
 ![Preview](https://i.ibb.co/yF8gky5K/photo-2025-02-13-18-37-26.jpg)
 
+## About the App  
 
+The app is built using React Native and Expo. It includes:  
+- 🌟 A home page  
+- 📜 A menu with drinks  
+- 📍 Information about the coffee shop and contact details  
 
 # Welcome to your Expo app 👋
 

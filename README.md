@@ -1,3 +1,7 @@
+![Preview]([https://i.ibb.co/yF8gky5K/photo-2025-02-13-18-37-26.jpg])
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
